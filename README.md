@@ -1,0 +1,1 @@
+This is a multivendor e commece project where multiple users from Bikini wrold are vtrying to sell their bikinis theough the e commece .You can use the ecommerec as  avvendor or as a user trying to shop for products online.
